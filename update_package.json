@@ -1,250 +1,322 @@
 [
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "لایه‌های اصلی فاسیا در گردن کدامند؟",
-      "Back": "فاسیاي سطحی (Superficial fascia) و فاسیاي عمقی (Deep fascia)."
+      "Front": "هسته‌های قاعده‌ای مغز شامل کدام ساختارها هستند؟",
+      "Back": "هسته دم‌دار (Caudate)، هسته عدسی‌شکل (Lentiform)، کلاستریوم (Claustrum)، کمپلکس آمیگدالوئید، هسته ساب‌تالامیک (Subthalamic nucleus)، ماده سیاه (Substantia nigra) و هسته آکومبنس (Nucleus accumbens)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "لایه‌های فاسیاي عمقی گردن را نام ببرید.",
-      "Back": "لایه پوشاننده (Investing layer)، لایه پره‌تراکئال (Pretracheal layer)، لایه پره‌ورته‌برال (Prevertebral layer)، و غلاف کاروتید (Carotid sheath)."
+      "Front": "هسته عدسی‌شکل (Lentiform nucleus) از کدام بخش‌ها تشکیل شده است؟",
+      "Back": "پوتامن (Putamen) و گلوبوس پالیدوس (Globus pallidus)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "جهت‌گیری خطوط طبیعی شکاف پوست (Langer's lines) در گردن چگونه است و چه اهمیتی دارد؟",
-      "Back": "تقریباً به صورت افقی در اطراف گردن؛ برش‌های موازی با این خطوط، اسکار کمتری ایجاد می‌کنند."
+      "Front": "استریاتوم (Corpus striatum) شامل کدام هسته‌های قاعده‌ای است؟",
+      "Back": "هسته دم‌دار (Caudate nucleus) و پوتامن (Putamen) — در برخی تعاریف، هسته عدسی‌شکل نیز جزء آن است."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عصب گوشی بزرگ (Great auricular nerve) از کدام ریشه‌های نخاعی منشأ می‌گیرد و چه ناحیه‌ای را عصب‌دهی حسی می‌کند؟",
-      "Back": "ریشه‌های C2, C3؛ پوست روی غده پاروتید، لاله گوش (قسمت خلفی) و ماستوئید.<br><img src=\"paste-2ddc54330d26380120fb352456e7e033a9bd30a3.jpg\">"
+      "Front": "نئواستریاتوم (Neostriatum) از کدام بخش‌ها تشکیل شده است؟",
+      "Back": "هسته دم‌دار (Caudate nucleus) و پوتامن (Putamen)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عصب اکسیپیتال کوچک (Lesser occipital nerve) از کدام ریشه‌های نخاعی منشأ می‌گیرد و چه ناحیه‌ای را عصب‌دهی حسی می‌کند؟",
-      "Back": "ریشه‌های C2, C3؛ پوست خلفی گوش و ناحیه اکسیپیتال فوقانی.<br><img alt=\"What Is an Occipital Nerve Block? What It Treats and How It's Done.\" src=\"1800x1200-what-to-know-about-occipital-nerve-block-bigbead.jpg\">"
+      "Front": "پالئواستریاتوم (Paleostriatum) یا پالیدوم (Pallidum) به کدام بخش از هسته‌های قاعده‌ای اشاره دارد؟",
+      "Back": "گلوبوس پالیدوس (Globus pallidus)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عصب عرضی گردنی (Transverse cervical nerve) از کدام ریشه‌های نخاعی منشأ می‌گیرد و چه ناحیه‌ای را عصب‌دهی حسی می‌کند؟",
-      "Back": "ریشه‌های C2, C3؛ پوست ناحیه قدامی گردن.<br><img alt=\"Transverse Cervical Nerve - TeachMeAnatomy\" src=\"Transverse-Cervical-Nerve.png\">"
+      "Front": "گلوبوس پالیدوس به چند بخش تقسیم می‌شود؟",
+      "Back": "دو بخش: گلوبوس پالیدوس خارجی (GPe) و گلوبوس پالیدوس داخلی (GPi)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "اعصاب سوپراکلاویکولار (Supraclavicular nerves) از کدام ریشه‌های نخاعی منشأ می‌گیرند و چه ناحیه‌ای را عصب‌دهی حسی می‌کنند؟",
-      "Back": "ریشه‌های C3, C4؛ پوست روی شانه و قسمت فوقانی سینه.<br><img alt=\"Supraclavicular Brachial Plexus Block | Sonoguide\" src=\"illustration-2.-supraclavicular-fossa.jpg\">"
+      "Front": "هسته آکومبنس (Nucleus accumbens) معادل کدام بخش از استریاتوم است؟",
+      "Back": "استریاتوم شکمی (Ventral striatum)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "نقطه Erb در گردن کجاست و چهار عصب حسی گردنی که از آنجا خارج می‌شوند کدامند؟",
-      "Back": "نقطه‌ای در لبه خلفی عضله استرنوکلیدوماستوئید؛ اعصاب گوشی بزرگ، اکسیپیتال کوچک، عرضی گردنی، و سوپراکلاویکولار."
+      "Front": "عملکرد اصلی هسته‌های قاعده‌ای در کنترل حرکت چیست؟",
+      "Back": "تنظیم و شروع حرکات ارادی، کنترل حرکات کلیشه‌ای و حفظ ثبات وضعیتی بدن."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عصب اکسیپیتال بزرگ (Greater occipital nerve) از کدام ریشه عصبی منشأ می‌گیرد و کدام ناحیه را عصب‌دهی می‌کند؟",
-      "Back": "ریشه خلفی C2؛ پوست ناحیه اکسیپیتال سر.<br><img src=\"12883_2024_3814_Fig1_HTML.jpg\">"
+      "Front": "مسیر مستقیم (Direct Pathway) در هسته‌های قاعده‌ای چه تاثیری بر حرکت دارد؟",
+      "Back": "اثر تحریک‌کننده (Excitatory) دارد و باعث تسهیل شروع حرکت می‌شود."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "ساختارهای اصلی موجود در فاسیاي سطحی گردن (علاوه بر پلاتیسما) کدامند؟",
-      "Back": "اعصاب و عروق سطحی پوست، وریدهای سطحی (مانند ورید ژوگولار خارجی)، و گره‌های لنفاوی سطحی."
+      "Front": "مسیر غیرمستقیم (Indirect Pathway) در هسته‌های قاعده‌ای چه تاثیری بر حرکت دارد؟",
+      "Back": "اثر بازدارنده (Inhibitory) دارد و باعث سرکوب حرکات ناخواسته می‌شود."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "کدام عضله مهم در فاسیاي سطحی گردن قرار دارد؟",
-      "Back": "عضله پلاتیسما (Platysma muscle)."
+      "Front": "نورون‌های خروجی از استریاتوم در مسیرهای هسته‌های قاعده‌ای از چه انتقال‌دهنده‌ای استفاده می‌کنند؟",
+      "Back": "گاما-آمینوبوتیریک اسید (GABA) که یک انتقال‌دهنده بازدارنده است."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عضله پلاتیسما از کجا منشأ می‌گیرد و به کجا متصل می‌شود؟",
-      "Back": "از فاسیاي پوشاننده عضلات دالی (deltoid) و پکتورالیس ماژور، به فک پایین، پوست و بافت زیرپوستی قسمت تحتانی صورت."
+      "Front": "نقش تالاموس (Thalamus) در حلقه‌های حرکتی هسته‌های قاعده‌ای چیست؟",
+      "Back": "تالاموس از طریق هسته‌های VA/VL به کورتکس حرکتی سیگنال‌های تحریک‌کننده می‌فرستد تا حرکت آغاز شود."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عصب‌دهی عضله پلاتیسما توسط کدام عصب انجام می‌شود؟",
-      "Back": "شاخه گردنی عصب صورتی (Cervical branch of Facial nerve - CN VII)."
+      "Front": "ماده سیاه، بخش کامپاکتا (Substantia Nigra Pars Compacta) چه انتقال‌دهنده‌ای را به استریاتوم آزاد می‌کند؟",
+      "Back": "دوپامین (Dopamine)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عملکردهای اصلی عضله پلاتیسما کدامند؟",
-      "Back": "افسردگی فک پایین، کشیدن گوشه‌های لب به پایین (مانند هنگام اخم کردن یا ابراز وحشت)، و کاهش فشار بر وریدهای سطحی."
+      "Front": "دوپامین بر مسیر مستقیم (Direct Pathway) از طریق کدام گیرنده‌ها و با چه تاثیری عمل می‌کند؟",
+      "Back": "گیرنده‌های D1 را تحریک کرده و باعث فعال‌سازی مسیر مستقیم و تسهیل حرکت می‌شود."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "آسیب به شاخه گردنی عصب صورتی (Facial nerve) چه تأثیری بر عضله پلاتیسما دارد و چه علامت بالینی ایجاد می‌کند؟",
-      "Back": "منجر به فلج عضله پلاتیسما می‌شود و باعث افتادگی پوست گردن (slake fold) می‌گردد."
+      "Front": "دوپامین بر مسیر غیرمستقیم (Indirect Pathway) از طریق کدام گیرنده‌ها و با چه تاثیری عمل می‌کند؟",
+      "Back": "گیرنده‌های D2 را مهار کرده و باعث کاهش فعالیت مسیر غیرمستقیم و تسهیل حرکت می‌شود."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "ورید ژوگولار خارجی (EJV) چگونه تشکیل می‌شود؟",
-      "Back": "از ادغام ورید خلفی گوشی (Posterior auricular vein) و شاخه خلفی ورید رتروماندیبولار (Posterior division of retromandibular vein).<br><img alt=\"Venous Drainage of the Head and Neck - Dural Sinuses - TeachMeAnatomy\" src=\"Venous-Drainage-of-the-Head-and-Scalp-The-Main-Superficial-Veins.jpg\">"
+      "Front": "آسیب به هسته‌های قاعده‌ای چه اختلالاتی در حرکت ایجاد می‌کند؟",
+      "Back": "حرکات غیرارادی (هایپرکینتیک)، برادی‌کینزی (Bradykinesia) یا هیپوکینزی (Hypokinesia)، تغییرات در وضعیت بدنی و تون عضلانی، دیس‌آرتری (Dysarthria) و دیس‌فاژی (Dysphagia)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "ورید ژوگولار خارجی (EJV) در نهایت به کدام ورید تخلیه می‌شود؟",
-      "Back": "ورید ساب‌کلاوین (Subclavian vein)."
+      "Front": "اختلالات حرکتی هسته‌های قاعده‌ای به چند دسته اصلی تقسیم می‌شوند؟",
+      "Back": "دو دسته: هایپرکینتیک (Hyperkinetic) مانند همی‌بالیسم و بیماری هانتینگتون، و هیپوکینتیک (Hypokinetic) مانند بیماری پارکینسون و دیسکینزی ناشی از دارو."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "مسیر ورید ژوگولار خارجی (EJV) در گردن چگونه است؟",
-      "Back": "از زاویه فک پایین به سمت پایین و خلفی نزول کرده، از روی عضله استرنوکلیدوماستوئید عبور می‌کند و زیر عضله پلاتیسما قرار دارد.<br><img alt=\"Venous Drainage of the Head and Neck - Dural Sinuses - TeachMeAnatomy\" src=\"Venous-Drainage-of-the-Head-and-Scalp-The-Main-Superficial-Veins.jpg\">"
+      "Front": "پاتوفیزیولوژی اصلی بیماری پارکینسون چیست؟",
+      "Back": "تخریب نورون‌های تولیدکننده دوپامین در بخش کامپاکتای ماده سیاه (Substantia Nigra Pars Compacta)، که منجر به کمبود دوپامین در نئواستریاتوم می‌شود."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "از نظر بالینی، برجستگی ورید ژوگولار خارجی (EJV) در ناحیه گردن نشان‌دهنده چه چیزی می‌تواند باشد؟",
-      "Back": "افزایش فشار وریدی مرکزی (Central Venous Pressure - CVP) که بازتابی از فشار دهلیز راست و وضعیت حجم داخل عروقی است."
+      "Front": "چهار علامت اصلی بیماری پارکینسون کدامند؟",
+      "Back": "لرزش در حالت استراحت (Resting Tremor)، سفتی عضلانی (Rigidity - بخصوص از نوع Cogwheel)، برادی‌کینزی (Bradykinesia) و بی‌ثباتی وضعیتی (Postural Instability)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "وریدهای اصلی که به EJV تخلیه می‌شوند کدامند؟",
-      "Back": "ورید عرضی گردنی، ورید سوپراس‌کاپولار، و وریدهای سطحی دیگر از پوست سر و گردن.<br><img alt=\"Superficial Veins of the Neck – Earth's Lab\" src=\"070417_0748_Superficial1.jpg\">"
+      "Front": "مشخصه الگوی راه رفتن در بیماران پارکینسون چیست؟",
+      "Back": "راه رفتن با قدم‌های کوتاه و کشیده (Shuffling Gait) و وضعیت خمیده و بی‌ثبات."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "ورید ژوگولار قدامی (Anterior jugular vein) در نهایت به کدام ورید تخلیه می‌شود؟",
-      "Back": "به ورید ساب‌کلاوین یا به طور غیرمستقیم از طریق قوس وریدی ژوگولار (Jugular venous arch) به EJV."
+      "Front": "وضعیت چهره در بیماران پارکینسون چگونه است؟",
+      "Back": "چهره بی‌حرکت و ماسک‌مانند (Masked Face) به دلیل کاهش حرکات خودبه‌خودی صورت و پلک زدن."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "لایه پوشاننده (Investing layer) فاسیاي عمقی گردن کدام عضلات اصلی را احاطه می‌کند؟",
-      "Back": "عضله استرنوکلیدوماستوئید (SCM) و عضله ذوزنقه‌ای (Trapezius).<br><img src=\"paste-680b74009610f64164626d03ed4f08f3fe86eced.jpg\">"
+      "Front": "کاهش دوپامین در بیماری پارکینسون چه تاثیری بر مسیرهای مستقیم و غیرمستقیم هسته‌های قاعده‌ای دارد؟",
+      "Back": "فعالیت مسیر مستقیم را کاهش و فعالیت مسیر غیرمستقیم را افزایش می‌دهد، که هر دو منجر به افزایش مهار تالاموس و کاهش تحریک کورتکس می‌شوند."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "لایه پره‌تراکئال (Pretracheal layer) فاسیاي عمقی گردن کدام اندام‌ها و عضلات را دربر می‌گیرد؟",
-      "Back": "غده تیروئید، حنجره، نای و عضلات زیر هیوئید (infrahyoid muscles).<br><img src=\"paste-402efecb7ed56e54019d1c5877de5d79684c2809.jpg\">"
+      "Front": "اساس درمان دارویی بیماری پارکینسون چیست؟",
+      "Back": "افزایش سطح دوپامین در مغز، معمولاً با تجویز لوودوپا (L-Dopa) یا آگونیست‌های دوپامین."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "لایه پره‌ورته‌برال (Prevertebral layer) فاسیاي عمقی گردن چه ساختارهایی را پوشش می‌دهد؟",
-      "Back": "ستون فقرات، عضلات پره‌ورته‌برال، و منشأ شبکه بازویی (Brachial plexus) را احاطه می‌کند.<br><img src=\"paste-402efecb7ed56e54019d1c5877de5d79684c2809.jpg\">"
+      "Front": "تحریک عمقی مغز (DBS) در بیماران پارکینسون اغلب کدام نواحی را هدف قرار می‌دهد؟",
+      "Back": "هسته ساب‌تالامیک (Subthalamic nucleus) یا گلوبوس پالیدوس داخلی (Globus Pallidus interna)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "غلاف کاروتید (Carotid sheath) شامل چه ساختارهای حیاتی است؟",
-      "Back": "شریان کاروتید مشترک (یا داخلی)، ورید ژوگولار داخلی (IJV) و عصب واگ (CN X).<br><img alt=\"Fascial Layers - Deep - Superficial - TeachMeAnatomy\" src=\"Labelled-Diagram-of-the-Carotid-and-Prevertebral-sheaths.png\">"
+      "Front": "دیسکینزی دیررس (Tardive Dyskinesia) می‌تواند در اثر چه عواملی ایجاد شود؟",
+      "Back": "مصرف طولانی‌مدت داروهای آنتی‌سایکوتیک مسدودکننده گیرنده D2 دوپامین (مانند کلرپرومازین و هالوپریدول) و همچنین مصرف طولانی‌مدت لوودوپا."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عصب فرعی (Accessory nerve - CN XI) در گردن به کدام عضلات عصب‌دهی حرکتی می‌کند؟",
-      "Back": "عضله استرنوکلیدوماستوئید (SCM) و عضله ذوزنقه‌ای (Trapezius)."
+      "Front": "پاتوفیزیولوژی اصلی بیماری هانتینگتون چیست؟",
+      "Back": "تخریب انتخابی نورون‌های GABAergic و کولینرژیک در استریاتوم (به ویژه هسته دم‌دار و پوتامن)، بخصوص نورون‌های مسیر غیرمستقیم که به GPe می‌روند."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "ریشه‌های نخاعی عصب فرعی (Accessory nerve - CN XI) عمدتاً کدامند؟",
-      "Back": "ریشه‌های C1-C5 از نخاع گردنی."
+      "Front": "بیماری هانتینگتون از نظر ژنتیکی چه الگویی دارد؟",
+      "Back": "اتوزومال غالب (Autosomal Dominant)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عفونت‌های فضاهای عمقی گردن چگونه می‌توانند منتشر شوند؟",
-      "Back": "از طریق لایه‌های فاسیاي عمقی، می‌توانند به mediastinum یا کف دهان گسترش یابند."
+      "Front": "علائم اصلی بیماری هانتینگتون کدامند؟",
+      "Back": "کوره (Chorea) که حرکات رقص‌مانند و غیرارادی است، همراه با افت شناختی پیشرونده و اختلالات روانپزشکی."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "عضله استرنوکلیدوماستوئید (SCM) گردن را به چند مثلث اصلی تقسیم می‌کند؟",
-      "Back": "دو مثلث اصلی: مثلث قدامی (Anterior triangle) و مثلث خلفی (Posterior triangle)."
+      "Front": "تخریب نورون‌های استریاتوم در بیماری هانتینگتون چه تاثیری بر مسیرهای هسته‌های قاعده‌ای دارد؟",
+      "Back": "تخریب نورون‌های استریاتوم که به GPe (مسیر غیرمستقیم) می‌روند، منجر به مهار کمتر GPe و در نتیجه تحریک بیشتر تالاموس می‌شود (که مسئول حرکات هایپرکینتیک است)."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "ورید رتروماندیبولار (Retromandibular vein) چگونه تشکیل می‌شود و به کدام وریدها تقسیم می‌شود؟",
-      "Back": "از ادغام ورید گیجگاهی سطحی (Superficial temporal vein) و ورید فکی (Maxillary vein) تشکیل شده و به شاخه قدامی (Anterior division) و شاخه خلفی (Posterior division) تقسیم می‌شود.<br><img alt=\"Retromandibular Vein – Anatomy, Course &amp; Drainage - TeachMeAnatomy\" src=\"Retromandibular-Vein-Course-and-Tributaries-1024x691.png\">"
+      "Front": "همی‌بالیسم (Hemiballism) معمولاً در اثر آسیب به کدام ساختار مغزی ایجاد می‌شود؟",
+      "Back": "هسته ساب‌تالامیک (Subthalamic nucleus)، اغلب به دلیل سکته مغزی."
     }
   },
   {
-    "deckName": "UniCards::H&N::04-01",
-    "modelName": "SelfMadeParsi",
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
     "fields": {
-      "Front": "شاخه قدامی ورید رتروماندیبولار (Retromandibular vein) با چه وریدی ادغام می‌شود؟",
-      "Back": "با ورید صورتی (Facial vein) ادغام شده و ورید فشیال مشترک (Common facial vein) را تشکیل می‌دهد.<br><img alt=\"Face – Venous and Lymphatic Drainage – Anatomy QA\" src=\"facial-vein1.png\">"
+      "Front": "علامت مشخصه همی‌بالیسم چیست؟",
+      "Back": "حرکات پرتابی، خشن و غیرارادی یک‌طرفه در اندام‌های پروگزیمال (بازو و پا)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "آتتوز (Athetosis) اغلب با آسیب به کدام بخش از هسته‌های قاعده‌ای همراه است؟",
+      "Back": "گلوبوس پالیدوس (Globus pallidus)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "مشخصه حرکات در آتتوز چیست؟",
+      "Back": "حرکات کرمی‌شکل، آهسته، موج‌دار و غیرارادی در دست و پا."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "کوره (Chorea) چیست و چه مشخصاتی دارد؟",
+      "Back": "مجموعه‌ای از حرکات ریتمیک، غیرارادی و رقص‌مانند که عمدتاً در اندام‌های انتهایی، عضلات صورت، زبان و حلق دیده می‌شوند."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "کوره سیدنهام (Sydenham's Chorea) چه علتی دارد؟",
+      "Back": "عارضه ثانویه عفونت استرپتوکوکی (Streptococcal infection) و تب روماتیسمی (Rheumatic Fever)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "نقش دوپامین در پاتوفیزیولوژی اسکیزوفرنی چیست؟",
+      "Back": "افزایش بیش از حد دوپامین در برخی نواحی مغز، که منجر به علائم روان‌پریشی می‌شود (برخلاف کمبود دوپامین در پارکینسون)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "اصل درمان دارویی اسکیزوفرنی چیست؟",
+      "Back": "مسدود کردن گیرنده‌های دوپامین D2 در مغز."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "مهم‌ترین ورودی‌های (Afferents) قشر مغز به استریاتوم (Corpus Striatum) کدامند؟",
+      "Back": "فیبرهای کورتیکواستریات (Corticostriate fibers) از تمام نواحی کورتکس."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "خروجی‌های (Efferents) اصلی استریاتوم کدامند؟",
+      "Back": "فیبرهای استریاتوپالیدال (Striatopallidal fibers) به گلوبوس پالیدوس و فیبرهای استریاتونیگرال (Striatonigral fibers) به ماده سیاه."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::10",
+    "modelName": "SelfMadeParsi++",
+    "fields": {
+      "Front": "فیبرهای پالیدوفوگال (Pallidofugal fibers) که از گلوبوس پالیدوس خارج می‌شوند، کدامند و به کجا می‌روند؟",
+      "Back": "آنسا لنتی‌کولاریس (Ansa lenticularis) به تالاموس و فاسیکولوس لنتی‌کولاریس (Fasciculus lenticularis) به ساب‌تالاموس."
     }
   },
   {
@@ -645,6 +717,406 @@
     "fields": {
       "Front": "میکروسفالی (Microcephaly) به چه وضعیتی گفته می‌شود؟",
       "Back": "اندازه غیرطبیعی کوچک سر و مغز در بدو تولد که معمولاً با اختلال رشد مغزی همراه است."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "منشأ شبکه گردنی (Cervical Plexus) کدام اعصاب نخاعی است؟",
+      "Back": "ریشه‌های قدامی اعصاب نخاعی C1، C2، C3 و بخش عمده‌ای از C4."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب فرنیک (Phrenic nerve) از کدام اعصاب نخاعی منشأ می‌گیرد و چه عملکردی دارد؟",
+      "Back": "عمدتاً از C4 (همچنین C3 و C5). عصب‌دهی حرکتی و حسی به دیافراگم دارد و روی عضله اسکالن قدامی (anterior scalene muscle) قرار می‌گیرد."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "شاخه‌های حسی اصلی شبکه گردنی به پوست کدامند؟",
+      "Back": "عصب گوشی بزرگ (Great auricular)، عصب پس‌سری کوچک (Lesser occipital)، عصب عرضی گردنی (Transverse cervical) و اعصاب فوق ترقوه‌ای (Supraclavicular) (C3,C4).<br><img alt=\"JaypeeDigital | eBook Reader\" src=\"761-1.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "Ansa cervicalis کدام عضلات را عصب‌دهی می‌کند؟",
+      "Back": "سه مورد از چهار عضله اینفراهیوئید (infrahyoid muscles) شامل استرنوهیوئید (sternohyoid)، استرنوتیروئید (sternothyroid) و دو بطن عضله اوموهیوئید (omohyoid).<br><img alt=\"ANSA CERVICALIS || Simple Explanation || Anatomy || Neuro Anatomy\" src=\"sddefault.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ریشه فوقانی (Superior root) Ansa cervicalis از کدام ریشه نخاعی منشأ می‌گیرد؟",
+      "Back": "C1 (با عصب هیپوگلوسال ادغام شده و از سطح شریان کاروتید خارجی عبور می‌کند).<br><img src=\"paste-307630ef5a9801e0b77ce69436c4783d567aec18.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ریشه تحتانی (Inferior root) Ansa cervicalis از کدام ریشه‌های نخاعی منشأ می‌گیرد؟",
+      "Back": "C2 و C3.<br><img src=\"paste-45b93e648c1c9221d55263e04041745f89c08a24.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام عضلات گردن عصب‌دهی حسی عمقی (Proprioceptive) از شبکه گردنی دریافت می‌کنند؟",
+      "Back": "عضله استرنوکلیدوماستوئید (SCM) از C2, C3 و عضله ذوزنقه‌ای (Trapezius) از C3, C4."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب فرعی جمجمه‌ای (Cranial root of Accessory nerve - CN XI) از کجا منشأ می‌گیرد و چه عضلاتی را عصب‌دهی می‌کند؟",
+      "Back": "از بصل‌النخاع (medulla oblongata) منشأ می‌گیرد و به عضلات نرم‌کام و حلق (از طریق شبکه حلقی) و عضلات حنجره (به جز عضله کریکوتیروئید) عصب‌دهی می‌کند."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب فرعی نخاعی (Spinal root of Accessory nerve - CN XI) از کجا منشأ می‌گیرد و چه عضلاتی را عصب‌دهی می‌کند؟",
+      "Back": "از بخش نخاعی (C1-C5) منشأ می‌گیرد و عصب‌دهی حرکتی به عضلات استرنوکلیدوماستوئید (SCM) و ذوزنقه‌ای (Trapezius) دارد.<br><img src=\"paste-ad41f798811e05dd3b7b56a4a3bc43f8fc514beb.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "آسیب به عصب فرعی نخاعی (Spinal Accessory Nerve) چه علائمی ایجاد می‌کند و حین کدام اقدامات جراحی بیشتر رخ می‌دهد؟",
+      "Back": "ناتوانی در بالا انداختن شانه‌ها (shrug shoulders) و ضعف در چرخش سر به سمت مقابل. این آسیب ممکن است حین بیوپسی غدد لنفاوی یا برداشتن تومور در مثلث خلفی گردن رخ دهد."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام عصب، جزء آوران (afferent) رفلکس گگ (gag reflex) است؟",
+      "Back": "عصب گلوسوفارنژیال (Glossopharyngeal nerve - CN IX)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام عصب، جزء وابران (efferent) رفلکس گگ (gag reflex) است؟",
+      "Back": "عصب واگ (Vagus nerve - CN X)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "آسیب به عصب واگ (Vagus nerve) چه علائمی در کام نرم و حنجره ایجاد می‌کند؟",
+      "Back": "عدم تقارن در بالا رفتن نرم‌کام هنگام گفتن 'آه' و انحراف زبان کوچک به سمت مقابل. همچنین ممکن است صدای نفس‌دار (breathiness of voice) و تاکی‌کاردی ایجاد شود."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب حنجره‌ای راجعه (Recurrent laryngeal nerve)، شاخه‌ای از عصب واگ، کدام عضلات حنجره را عصب‌دهی می‌کند؟",
+      "Back": "تمام عضلات داخلی حنجره به جز عضله کریکوتیروئید (cricothyroid muscle).<br><img alt=\"cricothyroid muscles\" src=\"cricothyroid_muscle.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب هیپوگلوسال (Hypoglossal nerve - CN XII) از کدام فورامن جمجمه خارج می‌شود؟",
+      "Back": "کانال هیپوگلوسال (Hypoglossal canal)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام عضلات زبان توسط عصب هیپوگلوسال (CN XII) عصب‌دهی می‌شوند؟",
+      "Back": "تمام عضلات ذاتی و خارجی زبان، به جز عضله پالاتوگلوسوس (Palatoglossus).<br><img alt=\"Figure, Palatoglossus muscle Image courtesy S Bhimji MD] - StatPearls -  NCBI Bookshelf\" src=\"Palatoglossusa.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عضله پالاتوگلوسوس (Palatoglossus) توسط کدام عصب عصب‌دهی می‌شود؟",
+      "Back": "عصب واگ (Vagus nerve - CN X) از طریق شبکه حلقی (Pharyngeal plexus).<br><img src=\"paste-86467618ef192f4378892687ea458a932be27655.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "آسیب به عصب هیپوگلوسال (Hypoglossal nerve) چه علائمی در زبان ایجاد می‌کند؟",
+      "Back": "انحراف زبان به سمت آسیب‌دیده هنگام بیرون آوردن زبان و آتروفی در همان سمت.<br><img src=\"paste-51e57aa224b5fe0f2024844d78fd588a26ed55a0.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب گلوسوفارنژیال (Glossopharyngeal nerve - CN IX) کدام عضله را عصب‌دهی حرکتی می‌کند؟",
+      "Back": "عضله استایلوفارنژیوس (Stylopharyngeus).<br><img src=\"paste-4e31db8a1bc6fae0472dab6ab472063fcdcd27b9.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام عصب، حس چشایی یک سوم خلفی زبان را منتقل می‌کند؟",
+      "Back": "عصب گلوسوفارنژیال (Glossopharyngeal nerve - CN IX).<br><img src=\"paste-ce28960082a6e6828205ec3e5ced1cbc096426b0.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام عصب، حس عمومی یک سوم خلفی زبان، حلق، لوزه‌ها و گوش میانی را تأمین می‌کند؟",
+      "Back": "عصب گلوسوفارنژیال (Glossopharyngeal nerve - CN IX).<br><img src=\"paste-51e57aa224b5fe0f2024844d78fd588a26ed55a0.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب گلوسوفارنژیال (CN IX) عصب‌دهی پاراسمپاتیک به کدام غده بزاقی را دارد؟",
+      "Back": "غده پاروتید (Parotid gland) (از طریق عصب پتروزال کوچک و گانگلیون اوتیک)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "گیرنده‌های حسی کاروتید بادی (Carotid body) و کاروتید سینوس (Carotid sinus) توسط کدام عصب عصب‌دهی می‌شوند؟",
+      "Back": "عصب گلوسوفارنژیال (Glossopharyngeal nerve - CN IX).<br><img src=\"paste-cb514ea5f83472e24b37a20c1382faba17fc94e7.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "گانگلیون گردنی فوقانی (Superior Cervical Ganglion) به کدام شاخه‌های اعصاب جمجمه‌ای عصب‌دهی می‌دهد؟",
+      "Back": "اعصاب گلوسوفارنژیال (IX)، واگ (X) و هیپوگلوسال (XII)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "موقعیت Stellate ganglion (گانگلیون ستاره‌ای) چگونه است و از ادغام کدام گانگلیون‌ها تشکیل می‌شود؟",
+      "Back": "در سطح مهره C7 و گردن دنده اول قرار دارد و از ادغام گانگلیون گردنی تحتانی (Inferior Cervical Ganglion) و اولین گانگلیون توراسیک (T1) تشکیل می‌شود.<br><img alt=\"Stellate Ganglion Block | Vascular &amp; Visceral Pain Treatment | Pain Spa,  Bristol, UK\" src=\"stellate_ganglion_block_v2_-web-1.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "انسای ساب‌کلاویا (Ansa subclavia) چیست؟",
+      "Back": "یک حلقه عصبی سمپاتیک است که اطراف شریان ساب‌کلاوین را احاطه می‌کند و گانگلیون‌های گردنی میانی و تحتانی را به هم وصل می‌کند.<br><img alt=\"JaypeeDigital | eBook Reader\" src=\"932-2.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کاربردهای بلاک گانگلیون ستاره‌ای (Stellate Ganglion Block) چیست؟",
+      "Back": "درمان درد صورت و اندام فوقانی مرتبط با سیستم سمپاتیک، سندروم‌های درد سمپاتیک (مانند نوروپاتی‌های ایسکمیک، هرپس زوستر) و بهبود جریان خون در شرایط نارسایی عروقی (مانند بیماری رینود)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "برای انجام بلاک گانگلیون ستاره‌ای، کدام لندمارک‌های آناتومیک مهم هستند؟",
+      "Back": "توبرکل قدامی C6 (توبرکل کاروتید) که یک بند انگشت جانبی‌تر از غضروف کریکوئید قرار دارد. غلاف کاروتید و عضله SCM به طور جانبی جابجا می‌شوند."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "نبض کاروتید (Carotid pulse) در کدام سطح مهره‌ای قابل لمس است؟",
+      "Back": "در سطح مهره C6، در مرز قدامی عضله استرنوکلیدوماستوئید (SCM) و در شیاری بین نای و عضلات اینفراهیوئید."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "سندروم حساسیت سینوس کاروتید (Carotid sinus hypersensitivity) در چه شرایطی ممکن است رخ دهد؟",
+      "Back": "چرخش سر، اصلاح صورت (شیو کردن) یا پوشیدن یقه‌های تنگ."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "8 شاخه شریان کاروتید خارجی (External Carotid Artery) کدامند؟",
+      "Back": "شریان تیروئید فوقانی، شریان حلقی صعودی، شریان زبانی، شریان صورتی، شریان پس‌سری، شریان گوشی خلفی، شریان تمپورال سطحی و شریان ماگزیلاری.<br><img alt=\"Branches of the external carotid artery - important to know are lingual,  occipital, maxillary, and superficial te…\" src=\"f77ea1dfcf58c06c257a2540e49c909b.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "شریان تیروئید فوقانی (Superior thyroid artery) از کدام شریان منشأ می‌گیرد و کدام غده را خونرسانی می‌کند؟",
+      "Back": "از شریان کاروتید خارجی منشأ می‌گیرد و غده تیروئید را خونرسانی می‌کند.<br><img src=\"paste-23568cb19ee27fb4dab8dab6f3398e2cf9aef56a.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "شریان صورتی (Facial artery) از کدام شریان منشأ می‌گیرد و کدام بخش‌های صورت را خونرسانی می‌کند؟",
+      "Back": "از شریان کاروتید خارجی منشأ می‌گیرد و عمدتاً صورت و غدد بزاقی ساب‌مندوبولار را خونرسانی می‌کند.<br><img alt=\"Transverse Facial Artery – Earth's Lab\" src=\"070717_0616_TransverseF1.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "شریان کاروتید داخلی (Internal Carotid Artery) در ناحیه گردن چه شاخه‌هایی می‌دهد؟",
+      "Back": "هیچ شاخه‌ای در گردن نمی‌دهد و مستقیماً وارد حفره جمجمه می‌شود.<br><img alt=\"Carotid artery surgery - series—Normal anatomy: MedlinePlus Medical  Encyclopedia\" src=\"13939.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "4 شاخه اصلی شریان ساب‌کلاوین (Subclavian Artery) کدامند؟",
+      "Back": "شریان مهره‌ای (Vertebral artery)، تنه تیروسرویکال (Thyrocervical trunk)، تنه کوستوسرویکال (Costocervical trunk) و شریان توراسیک داخلی (Internal thoracic artery).<br><img alt=\"Subclavian Artery Stenosis | Thoracic Key\" src=\"m_lily_ch32_f001.png\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "شاخه‌های تنه تیروسرویکال (Thyrocervical trunk) کدامند؟",
+      "Back": "شریان تیروئید تحتانی (Inferior thyroid artery)، شریان عرضی گردنی (Transverse cervical artery) و شریان سوپراسکاپولار (Suprascapular artery).<br><img alt=\"Thyrocervical Trunk – Earth's Lab\" src=\"070517_0505_SubclavianA10.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "شاخه‌های تنه کوستوسرویکال (Costocervical trunk) کدامند؟",
+      "Back": "شریان بین‌دنده‌ای فوقانی (Supreme intercostal artery) و شریان سرویکال عمقی (Deep cervical artery).<br><img alt=\"Costocervical trunk - Wikipedia\" src=\"Costocervical_trunk_with_branches.png\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "سندروم دزدی ساب‌کلاوین (Subclavian Steal Syndrome) چیست و علت آن کدام است؟",
+      "Back": "تنگی (stenosis) شریان ساب‌کلاوین در پروگزیمال منشأ شریان مهره‌ای (vertebral artery). این امر باعث کاهش جریان خون به مغز و علائم عصبی می‌شود، زیرا خون از طریق شریان مهره‌ای مقابل به سمت اندام فوقانی آسیب‌دیده 'دزدیده' می‌شود.<br><img alt=\"Subclavian Steal Syndrome\" src=\"Subclavianstea2l.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ورید ژوگولار داخلی (Internal Jugular Vein) به کجا تخلیه می‌شود؟",
+      "Back": "به ورید براکیوسفالیک (Brachiocephalic vein) می‌ریزد.<br><img alt=\"Internal Jugular Vein - an overview | ScienceDirect Topics\" src=\"1-s2.0-S1472029909002616-gr1.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "6 ورید اصلی که به ورید ژوگولار داخلی (Internal Jugular Vein) تخلیه می‌شوند، کدامند؟",
+      "Back": "سینوس پتروزال تحتانی، ورید صورتی، ورید حلقی، ورید زبانی، ورید تیروئید فوقانی و ورید تیروئید میانی.<br><img src=\"paste-be8969583b492d263f90ebff86b9a19168e9e000.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "خطرات مرتبط با سوراخ کردن ورید ساب‌کلاوین (Subclavian vein puncture) چیست؟",
+      "Back": "پنوموتوراکس (Pneumothorax) ناشی از سوراخ شدن پلورا و ریه، و همچنین سوراخ شدن شریان ساب‌کلاوین."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عضله پلاتیسما (Platysma) توسط کدام عصب عصب‌دهی می‌شود؟",
+      "Back": "عصب صورتی (Facial nerve - CN VII)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام اعصاب جمجمه‌ای و شریان مهم از عمق بطن خلفی عضله دوبطنی (Posterior belly of digastric) عبور می‌کنند؟",
+      "Back": "اعصاب گلوسوفارنژیال (CN IX)، واگ (CN X)، فرعی (CN XI)، هیپوگلوسال (CN XII) و شریان پس‌سری (Occipital artery)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب واگ (Vagus nerve) در ناحیه گردن و حنجره چه شاخه‌های اصلی دارد؟",
+      "Back": "شاخه‌های حلقی (Pharyngeal)، عصب حنجره‌ای فوقانی (Superior laryngeal nerve) (که به داخلی و خارجی تقسیم می‌شود) و عصب حنجره‌ای راجعه (Recurrent laryngeal nerve).<br><img src=\"paste-8d9476946fc7261bb3873c9595ea751b2389a7b2.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب حنجره‌ای فوقانی (Superior laryngeal nerve)، شاخه‌ای از واگ (CN X)، به چند شاخه تقسیم می‌شود و چه عملکردی دارند؟",
+      "Back": "به دو شاخه داخلی (Internal laryngeal nerve) که حس بالای چین‌های صوتی را تامین می‌کند و خارجی (External laryngeal nerve) که عضله کریکوتیروئید (cricothyroid) را عصب‌دهی می‌کند، تقسیم می‌شود.<br><img src=\"paste-a5e837a763f5e20edea7bb75dc1d1f590005eb5f.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "آسیب به عصب حنجره‌ای خارجی (External laryngeal nerve) چه مشکلی در صدا ایجاد می‌کند؟",
+      "Back": "به دلیل فلج شدن عضله کریکوتیروئید (cricothyroid)، فرد نمی‌تواند تن صدای خود را تغییر دهد و صدایی یکنواخت (monotonous voice) پیدا می‌کند."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "آسیب به عصب حنجره‌ای راجعه (Recurrent laryngeal nerve) چه مشکلی در صدا ایجاد می‌کند؟",
+      "Back": "به دلیل فلج شدن بیشتر عضلات داخلی حنجره (به جز کریکوتیروئید)، فرد دچار گرفتگی و خشونت صدا (hoarseness) می‌شود."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ساختمان‌های اصلی داخل غلاف کاروتید (Carotid sheath) کدامند؟",
+      "Back": "شریان کاروتید مشترک (Common carotid artery)، ورید ژوگولار داخلی (Internal jugular vein) و عصب واگ (Vagus nerve - CN X)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام اعصاب جمجمه‌ای از فورامن ژوگولار (Jugular Foramen) عبور می‌کنند؟",
+      "Back": "اعصاب گلوسوفارنژیال (CN IX)، واگ (CN X) و فرعی (CN XI - ریشه جمجمه‌ای و نخاعی)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::05",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "شریان توراسیک داخلی (Internal thoracic artery) از کدام شریان منشأ می‌گیرد؟",
+      "Back": "شریان ساب‌کلاوین (Subclavian artery).<br><img alt=\"Internal Thoracic Artery - AnatomyZone\" src=\"internal-thoracic-artery.png\">"
     }
   },
   {

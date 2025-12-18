@@ -1,0 +1,354 @@
+[
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "خصوصیات کلی باکتری‌های بی‌هوازی غیرهاگ‌زا چیست؟",
+      "Back": "این باکتری‌ها فلور طبیعی غالب پوست و غشاهای مخاطی هستند، عمدتاً فرصت‌طلب بوده و عامل عفونت‌های اندوژن در عفونت‌های چند میکروبی محسوب می‌شوند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "چالش‌های اصلی در تشخیص آزمایشگاهی عفونت‌های بی‌هوازی چیست؟",
+      "Back": "آلودگی نمونه با فلور طبیعی، نیاز به انتقال نمونه در محیط بدون اکسیژن، و کشت طولانی‌مدت (۵ تا ۷ روز) در اتمسفر بی‌هوازی."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "درمان کلی عفونت‌های بی‌هوازی شامل چه اقداماتی است؟",
+      "Back": "درمان آنتی‌بیوتیکی همراه با مداخله جراحی (مانند تخلیه آبسه)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "چرا کنترل عفونت‌های ناشی از باکتری‌های بی‌هوازی دشوار است؟",
+      "Back": "چون این باکتری‌ها بخشی مهم از فلور طبیعی بدن هستند و عفونت‌ها عمدتاً از طریق گسترش اندوژن (درون‌زا) ایجاد می‌شوند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "مهمترین جنس کوکسی‌های گرم مثبت بی‌هوازی که از نظر بالینی اهمیت دارند و محل‌های کلونیزاسیون آن‌ها کدامند؟",
+      "Back": "جنس *Peptostreptococcus* (شامل *Anaerococcus*, *Finegoldia* و غیره) که در حفره دهان، دستگاه گوارش، ادراری-تناسلی و پوست کلونیزه می‌شوند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عفونت‌های شایع ناشی از کوکسی‌های گرم مثبت بی‌هوازی را نام ببرید.",
+      "Back": "سینوزیت، عفونت‌های پلوروپولمونری، عفونت‌های داخل شکمی، آندومتریت، آبسه‌های لگنی، سالپنژیت، سلولیت، عفونت بافت نرم و استئومیلیت."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "حساسیت آنتی‌بیوتیکی کوکسی‌های گرم مثبت بی‌هوازی چگونه است؟",
+      "Back": "معمولاً به پنی‌سیلین‌ها و کارباپنم‌ها حساس هستند؛ به آمینوگلیکوزیدها مقاوم هستند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عفونت‌های کلیدی ایجاد شده توسط *Actinomyces* کدامند؟",
+      "Back": "اکتینومایکوزیس (سرویکوفاسیال، توراسیک، شکمی، لگنی و CNS)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "خصوصیات کلی و محل‌های فلور طبیعی *Lactobacillus* چیست؟",
+      "Back": "باسیل‌های گرم مثبت، بی‌هوازی اختیاری یا اجباری، جزء فلور طبیعی دهان، معده، روده و دستگاه ادراری-تناسلی هستند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "نقش *Lactobacillus* در عفونت‌های ادراری چیست؟",
+      "Back": "به ندرت باعث عفونت ادراری می‌شوند، حتی اگر در کشت ادرار دیده شوند، معمولاً آلودگی نمونه تلقی می‌شوند، زیرا قادر به رشد در ادرار نیستند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "بیماری‌های مرتبط با تهاجم *Lactobacillus* به خون کدامند؟",
+      "Back": "باکتریمی گذرا (از منشأ ادراری-تناسلی)، اندوکاردیت و سپسیس فرصت‌طلب در بیماران نقص ایمنی."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "مقاومت آنتی‌بیوتیکی *Lactobacillus* چگونه است؟",
+      "Back": "به وانکومایسین مقاوم هستند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "برای فعالیت باکتری‌کش در درمان عفونت‌های شدید *Lactobacillus* چه ترکیبی توصیه می‌شود؟",
+      "Back": "ترکیب پنی‌سیلین با یک آمینوگلیکوزید."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "خصوصیات باکتری *Cutibacterium* (سابقاً *Propionibacterium*) چیست؟",
+      "Back": "باسیل‌های گرم مثبت کوچک، بی‌هوازی یا ایروتولرانت، غیرمتحرک و کاتالاز مثبت که اسید پروپیونیک تولید می‌کنند و در پوست و مخاط کلونیزه می‌شوند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عفونت‌های اصلی ناشی از *Cutibacterium acnes* کدامند؟",
+      "Back": "آکنه ولگاریس و عفونت‌های فرصت‌طلب مرتبط با پروتزهای مصنوعی (مانند دریچه‌های قلبی، مفاصل) یا خطوط داخل عروقی (کاتترها)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "مکانیسم بیماری‌زایی *Cutibacterium acnes* در آکنه چیست؟",
+      "Back": "تحریک پاسخ التهابی از طریق تولید پپتیدهای جذب‌کننده لوکوسیت و آنزیم‌های هیدرولیتیک (لیپاز، پروتئاز، نورامینیداز، هیالورونیداز)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "*Propionibacterium propionicum* چه بیماری‌هایی ایجاد می‌کند؟",
+      "Back": "آبسه‌های اندودنتیک (ریشه دندان) و کانالیکولیت لاکریمال (التهاب مجرای اشکی)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "خصوصیات مورفولوژیک و ساختاری *Mobiluncus* چیست؟",
+      "Back": "باسیل‌های منحنی بی‌هوازی اجباری، گرم متغیر یا گرم منفی با دیواره سلولی گرم مثبت که فاقد اندوتوکسین هستند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "*Mobiluncus* با کدام بیماری زنان مرتبط است؟",
+      "Back": "واژینوز باکتریایی (Bacterial Vaginosis)، به خصوص گونه *M. curtisii*."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "حساسیت آنتی‌بیوتیکی *Mobiluncus* چگونه است؟",
+      "Back": "به وانکومایسین، کلیندامایسین، اریترومایسین و آمپی‌سیلین حساس است، اما به کولیستین مقاوم است."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "خصوصیات کلی و اهمیت بالینی *Bifidobacterium* و *Eubacterium* چیست؟",
+      "Back": "جزو فلور طبیعی اوروفارنکس، روده بزرگ و واژن با پتانسیل بیماری‌زایی بسیار پایین هستند و معمولاً آلوده‌کننده بی‌اهمیت تلقی می‌شوند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "مهمترین جنس‌های باکتری‌های بی‌هوازی گرم منفی را نام ببرید.",
+      "Back": "*Bacteroides*, *Fusobacterium*, *Porphyromonas*, *Prevotella*, *Veillonella*."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "چرا *Bacteroides fragilis* از نظر بالینی مهمترین بی‌هوازی گرم منفی است؟",
+      "Back": "به سرعت رشد می‌کند و می‌تواند بیماری‌های تهدیدکننده حیات ایجاد کند و شایع‌ترین باکتری جدا شده در کشت خون بی‌هوازی است."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ویژگی‌های فیزیولوژیکی *Bacteroides* چیست؟",
+      "Back": "رشد آن‌ها با ۲۰% صفرا تحریک می‌شود و به سرعت در محیط کشت رشد می‌کنند (اغلب ظرف ۲ روز)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کپسول پلی‌ساکاریدی و LPS باکتری *Bacteroides fragilis* چه ویژگی‌هایی دارد؟",
+      "Back": "کپسول پلی‌ساکاریدی ضدفاگوسیتی است و LPS آن فعالیت اندوتوکسینی کمی دارد یا فاقد آن است (به دلیل عدم وجود گروه‌های فسفات در لیپید A و کاهش اسیدهای چرب)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عفونت‌های شایع ناشی از گروه *Bacteroides fragilis* کدامند؟",
+      "Back": "عفونت‌های داخل شکمی (آبسه‌ها)، عفونت‌های زنان (مانند آبسه‌های لگنی)، عفونت‌های پوست و بافت نرم و باکتریمی."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "*B. fragilis* انتروتوکسین‌زا چه بیماری و توکسینی ایجاد می‌کند؟",
+      "Back": "اسهال آبکی خود‌محدود‌شونده، به ویژه در کودکان زیر ۵ سال، از طریق تولید توکسین متالوپروتئاز روی گرما-ناپایدار (BFT)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ویژگی‌های مورفولوژیکی و کشت *Porphyromonas* و *Prevotella* چیست؟",
+      "Back": "باسیل‌های گرم منفی بسیار کوچک که در محیط‌های غنی شده با خون لایز شده، تولید رنگدانه (بنفش/قهوه‌ای-مشکی) می‌کنند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "مکانیسم‌های بیماری‌زایی *Porphyromonas* و *Prevotella* چیست؟",
+      "Back": "تولید پروتئازهایی که ایمونوگلوبولین‌ها را تخریب می‌کنند، و فیبریاهای *P. gingivalis* که سیتوکین‌های پیش‌التهابی (TNF-α, IL-1β) را القا می‌کنند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عفونت‌های شایع ناشی از *Porphyromonas* و *Prevotella* کدامند؟",
+      "Back": "عفونت‌های پریودنتال، عفونت‌های دستگاه تنفسی (مانند سینوزیت مزمن)، آبسه‌های مغزی و عفونت‌های زنان."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ویژگی‌های مورفولوژیکی *Fusobacterium* چیست؟",
+      "Back": "باسیل‌های گرم منفی دوکی‌شکل و کشیده."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عفونت‌های شایع ناشی از *Fusobacterium* کدامند؟",
+      "Back": "عفونت‌های پریودنتال، عفونت‌های دستگاه تنفسی فوقانی و تحتانی (مانند آبسه ریه) و آبسه‌های مغزی."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ویژگی‌های مهم *Veillonella* چیست؟",
+      "Back": "کوکسی گرم منفی بی‌هوازی که عمدتاً در اوروفارنکس یافت می‌شود اما به ندرت باعث عفونت بالینی معنی‌دار می‌شود."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "باکتری‌های بی‌هوازی گرم منفی چگونه در برابر فاگوسیتوز از خود محافظت می‌کنند؟",
+      "Back": "از طریق کپسول پلی‌ساکاریدی و تولید اسیدهای چرب کوتاه‌زنجیر (مانند اسید سوکسینیک) که فاگوسیتوز و کشتن درون‌سلولی را مهار می‌کنند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "باکتری‌های بی‌هوازی گرم منفی چگونه سمّیت اکسیژن را تحمل می‌کنند؟",
+      "Back": "از طریق تولید آنزیم‌های کاتالاز و سوپراکسید دیسموتاز که پراکسید هیدروژن و رادیکال‌های آزاد سوپراکسید را غیرفعال می‌کنند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "مکانیسم تخریب بافتی توسط باکتری‌های بی‌هوازی گرم منفی چیست؟",
+      "Back": "تولید آنزیم‌های سیتوتوکسیک (مانند لیپاز، پروتئاز، هیالورونیداز) که به سلول‌ها و بافت‌های میزبان آسیب می‌رسانند."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "مشاهده میکروسکوپی باسیل‌های گرم منفی بی‌هوازی چه اطلاعاتی ارائه می‌دهد؟",
+      "Back": "مشاهده باسیل‌های گرم منفی پلئومورفیک (چندشکل) با رنگ‌آمیزی کمرنگ و نامنظم می‌تواند اطلاعات اولیه مفیدی باشد."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "در کشت باکتری‌های بی‌هوازی گرم منفی، چه تفاوتی در سرعت رشد بین گونه‌ها وجود دارد؟",
+      "Back": "بیشتر گونه‌های *Bacteroides* به سرعت رشد می‌کنند (ظرف ۲ روز)، در حالی که سایر باسیل‌های گرم منفی بی‌هوازی ممکن است به دوره انکوباسیون طولانی‌تری نیاز داشته باشند (بیش از ۳ روز)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام محیط‌های کشت انتخابی برای بازیابی باکتری‌های بی‌هوازی مهم هستند؟",
+      "Back": "محیط‌های مکمل‌شده با صفرا برای *Bacteroides* و محیط‌های غنی‌شده با خون لایز شده برای تحریک تولید رنگدانه در *Porphyromonas* و *Prevotella*."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام باکتری‌های بی‌هوازی گرم منفی بتا-لاکتاماز تولید می‌کنند و به پنی‌سیلین و بسیاری از سفالوسپورین‌ها مقاوم هستند؟",
+      "Back": "تمام اعضای گروه *B. fragilis*، بسیاری از گونه‌های *Prevotella* و *Porphyromonas*، و برخی از *Fusobacterium*ها."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام آنتی‌بیوتیک‌ها بهترین فعالیت را علیه باسیل‌های گرم منفی بی‌هوازی دارند؟",
+      "Back": "مترونیدازول، کارباپنم‌ها (ایمی‌پنم، مروپنم) و مهارکننده‌های بتا-لاکتاماز (مانند پیپراسیلین-تازوباکتام)."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "فلور طبیعی بی‌هوازی بدن چه نقش‌هایی ایفا می‌کند؟",
+      "Back": "باعث تثبیت فلور باکتریایی مقیم، جلوگیری از کلونیزاسیون توسط ارگانیسم‌های بیماری‌زا از منابع خارجی و کمک به هضم غذا می‌شود."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عفونت‌های دستگاه تنفسی تحتانی ناشی از بی‌هوازی‌ها معمولاً در چه شرایطی رخ می‌دهند؟",
+      "Back": "به ندرت با عفونت‌های دستگاه تنفسی تحتانی مرتبط هستند، مگر اینکه سابقه آسپیراسیون ترشحات دهانی وجود داشته باشد."
+    }
+  },
+  {
+    "deckName": "UniCards::Bacterio::15",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "آبسه‌های مغزی ناشی از بی‌هوازی‌ها اغلب با چه شرایطی مرتبط هستند؟",
+      "Back": "معمولاً با سابقه سینوزیت مزمن یا اوتیت (التهاب گوش) مرتبط هستند."
+    }
+  }
+]

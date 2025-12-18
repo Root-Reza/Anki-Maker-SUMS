@@ -1,5 +1,653 @@
 [
   {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "لایه‌های اصلی فاسیا در گردن کدامند؟",
+      "Back": "فاسیاي سطحی (Superficial fascia) و فاسیاي عمقی (Deep fascia)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "لایه‌های فاسیاي عمقی گردن را نام ببرید.",
+      "Back": "لایه پوشاننده (Investing layer)، لایه پره‌تراکئال (Pretracheal layer)، لایه پره‌ورته‌برال (Prevertebral layer)، و غلاف کاروتید (Carotid sheath)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "جهت‌گیری خطوط طبیعی شکاف پوست (Langer's lines) در گردن چگونه است و چه اهمیتی دارد؟",
+      "Back": "تقریباً به صورت افقی در اطراف گردن؛ برش‌های موازی با این خطوط، اسکار کمتری ایجاد می‌کنند."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب گوشی بزرگ (Great auricular nerve) از کدام ریشه‌های نخاعی منشأ می‌گیرد و چه ناحیه‌ای را عصب‌دهی حسی می‌کند؟",
+      "Back": "ریشه‌های C2, C3؛ پوست روی غده پاروتید، لاله گوش (قسمت خلفی) و ماستوئید.<br><img src=\"paste-2ddc54330d26380120fb352456e7e033a9bd30a3.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب اکسیپیتال کوچک (Lesser occipital nerve) از کدام ریشه‌های نخاعی منشأ می‌گیرد و چه ناحیه‌ای را عصب‌دهی حسی می‌کند؟",
+      "Back": "ریشه‌های C2, C3؛ پوست خلفی گوش و ناحیه اکسیپیتال فوقانی.<br><img alt=\"What Is an Occipital Nerve Block? What It Treats and How It's Done.\" src=\"1800x1200-what-to-know-about-occipital-nerve-block-bigbead.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب عرضی گردنی (Transverse cervical nerve) از کدام ریشه‌های نخاعی منشأ می‌گیرد و چه ناحیه‌ای را عصب‌دهی حسی می‌کند؟",
+      "Back": "ریشه‌های C2, C3؛ پوست ناحیه قدامی گردن.<br><img alt=\"Transverse Cervical Nerve - TeachMeAnatomy\" src=\"Transverse-Cervical-Nerve.png\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "اعصاب سوپراکلاویکولار (Supraclavicular nerves) از کدام ریشه‌های نخاعی منشأ می‌گیرند و چه ناحیه‌ای را عصب‌دهی حسی می‌کنند؟",
+      "Back": "ریشه‌های C3, C4؛ پوست روی شانه و قسمت فوقانی سینه.<br><img alt=\"Supraclavicular Brachial Plexus Block | Sonoguide\" src=\"illustration-2.-supraclavicular-fossa.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "نقطه Erb در گردن کجاست و چهار عصب حسی گردنی که از آنجا خارج می‌شوند کدامند؟",
+      "Back": "نقطه‌ای در لبه خلفی عضله استرنوکلیدوماستوئید؛ اعصاب گوشی بزرگ، اکسیپیتال کوچک، عرضی گردنی، و سوپراکلاویکولار."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب اکسیپیتال بزرگ (Greater occipital nerve) از کدام ریشه عصبی منشأ می‌گیرد و کدام ناحیه را عصب‌دهی می‌کند؟",
+      "Back": "ریشه خلفی C2؛ پوست ناحیه اکسیپیتال سر.<br><img src=\"12883_2024_3814_Fig1_HTML.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ساختارهای اصلی موجود در فاسیاي سطحی گردن (علاوه بر پلاتیسما) کدامند؟",
+      "Back": "اعصاب و عروق سطحی پوست، وریدهای سطحی (مانند ورید ژوگولار خارجی)، و گره‌های لنفاوی سطحی."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "کدام عضله مهم در فاسیاي سطحی گردن قرار دارد؟",
+      "Back": "عضله پلاتیسما (Platysma muscle)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عضله پلاتیسما از کجا منشأ می‌گیرد و به کجا متصل می‌شود؟",
+      "Back": "از فاسیاي پوشاننده عضلات دالی (deltoid) و پکتورالیس ماژور، به فک پایین، پوست و بافت زیرپوستی قسمت تحتانی صورت."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب‌دهی عضله پلاتیسما توسط کدام عصب انجام می‌شود؟",
+      "Back": "شاخه گردنی عصب صورتی (Cervical branch of Facial nerve - CN VII)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عملکردهای اصلی عضله پلاتیسما کدامند؟",
+      "Back": "افسردگی فک پایین، کشیدن گوشه‌های لب به پایین (مانند هنگام اخم کردن یا ابراز وحشت)، و کاهش فشار بر وریدهای سطحی."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "آسیب به شاخه گردنی عصب صورتی (Facial nerve) چه تأثیری بر عضله پلاتیسما دارد و چه علامت بالینی ایجاد می‌کند؟",
+      "Back": "منجر به فلج عضله پلاتیسما می‌شود و باعث افتادگی پوست گردن (slake fold) می‌گردد."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ورید ژوگولار خارجی (EJV) چگونه تشکیل می‌شود؟",
+      "Back": "از ادغام ورید خلفی گوشی (Posterior auricular vein) و شاخه خلفی ورید رتروماندیبولار (Posterior division of retromandibular vein).<br><img alt=\"Venous Drainage of the Head and Neck - Dural Sinuses - TeachMeAnatomy\" src=\"Venous-Drainage-of-the-Head-and-Scalp-The-Main-Superficial-Veins.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ورید ژوگولار خارجی (EJV) در نهایت به کدام ورید تخلیه می‌شود؟",
+      "Back": "ورید ساب‌کلاوین (Subclavian vein)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "مسیر ورید ژوگولار خارجی (EJV) در گردن چگونه است؟",
+      "Back": "از زاویه فک پایین به سمت پایین و خلفی نزول کرده، از روی عضله استرنوکلیدوماستوئید عبور می‌کند و زیر عضله پلاتیسما قرار دارد.<br><img alt=\"Venous Drainage of the Head and Neck - Dural Sinuses - TeachMeAnatomy\" src=\"Venous-Drainage-of-the-Head-and-Scalp-The-Main-Superficial-Veins.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "از نظر بالینی، برجستگی ورید ژوگولار خارجی (EJV) در ناحیه گردن نشان‌دهنده چه چیزی می‌تواند باشد؟",
+      "Back": "افزایش فشار وریدی مرکزی (Central Venous Pressure - CVP) که بازتابی از فشار دهلیز راست و وضعیت حجم داخل عروقی است."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "وریدهای اصلی که به EJV تخلیه می‌شوند کدامند؟",
+      "Back": "ورید عرضی گردنی، ورید سوپراس‌کاپولار، و وریدهای سطحی دیگر از پوست سر و گردن.<br><img alt=\"Superficial Veins of the Neck – Earth's Lab\" src=\"070417_0748_Superficial1.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ورید ژوگولار قدامی (Anterior jugular vein) در نهایت به کدام ورید تخلیه می‌شود؟",
+      "Back": "به ورید ساب‌کلاوین یا به طور غیرمستقیم از طریق قوس وریدی ژوگولار (Jugular venous arch) به EJV."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "لایه پوشاننده (Investing layer) فاسیاي عمقی گردن کدام عضلات اصلی را احاطه می‌کند؟",
+      "Back": "عضله استرنوکلیدوماستوئید (SCM) و عضله ذوزنقه‌ای (Trapezius).<br><img src=\"paste-680b74009610f64164626d03ed4f08f3fe86eced.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "لایه پره‌تراکئال (Pretracheal layer) فاسیاي عمقی گردن کدام اندام‌ها و عضلات را دربر می‌گیرد؟",
+      "Back": "غده تیروئید، حنجره، نای و عضلات زیر هیوئید (infrahyoid muscles).<br><img src=\"paste-402efecb7ed56e54019d1c5877de5d79684c2809.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "لایه پره‌ورته‌برال (Prevertebral layer) فاسیاي عمقی گردن چه ساختارهایی را پوشش می‌دهد؟",
+      "Back": "ستون فقرات، عضلات پره‌ورته‌برال، و منشأ شبکه بازویی (Brachial plexus) را احاطه می‌کند.<br><img src=\"paste-402efecb7ed56e54019d1c5877de5d79684c2809.jpg\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "غلاف کاروتید (Carotid sheath) شامل چه ساختارهای حیاتی است؟",
+      "Back": "شریان کاروتید مشترک (یا داخلی)، ورید ژوگولار داخلی (IJV) و عصب واگ (CN X).<br><img alt=\"Fascial Layers - Deep - Superficial - TeachMeAnatomy\" src=\"Labelled-Diagram-of-the-Carotid-and-Prevertebral-sheaths.png\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عصب فرعی (Accessory nerve - CN XI) در گردن به کدام عضلات عصب‌دهی حرکتی می‌کند؟",
+      "Back": "عضله استرنوکلیدوماستوئید (SCM) و عضله ذوزنقه‌ای (Trapezius)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ریشه‌های نخاعی عصب فرعی (Accessory nerve - CN XI) عمدتاً کدامند؟",
+      "Back": "ریشه‌های C1-C5 از نخاع گردنی."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عفونت‌های فضاهای عمقی گردن چگونه می‌توانند منتشر شوند؟",
+      "Back": "از طریق لایه‌های فاسیاي عمقی، می‌توانند به mediastinum یا کف دهان گسترش یابند."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "عضله استرنوکلیدوماستوئید (SCM) گردن را به چند مثلث اصلی تقسیم می‌کند؟",
+      "Back": "دو مثلث اصلی: مثلث قدامی (Anterior triangle) و مثلث خلفی (Posterior triangle)."
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "ورید رتروماندیبولار (Retromandibular vein) چگونه تشکیل می‌شود و به کدام وریدها تقسیم می‌شود؟",
+      "Back": "از ادغام ورید گیجگاهی سطحی (Superficial temporal vein) و ورید فکی (Maxillary vein) تشکیل شده و به شاخه قدامی (Anterior division) و شاخه خلفی (Posterior division) تقسیم می‌شود.<br><img alt=\"Retromandibular Vein – Anatomy, Course &amp; Drainage - TeachMeAnatomy\" src=\"Retromandibular-Vein-Course-and-Tributaries-1024x691.png\">"
+    }
+  },
+  {
+    "deckName": "UniCards::H&N::04-01",
+    "modelName": "SelfMadeParsi",
+    "fields": {
+      "Front": "شاخه قدامی ورید رتروماندیبولار (Retromandibular vein) با چه وریدی ادغام می‌شود؟",
+      "Back": "با ورید صورتی (Facial vein) ادغام شده و ورید فشیال مشترک (Common facial vein) را تشکیل می‌دهد.<br><img alt=\"Face – Venous and Lymphatic Drainage – Anatomy QA\" src=\"facial-vein1.png\">"
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "صفحه عصبی (neural plate) از کدام لایه جنینی منشا می‌گیرد؟",
+      "Back": "اکتودرم ضخیم شده (thickened ectoderm)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "شکل‌گیری لوله عصبی (neural tube) توسط کدام ساختار جنینی القا (induced) می‌شود؟",
+      "Back": "نوتوکورد (notochord)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "فیوژن (بسته شدن) لوله عصبی ابتدا از کدام ناحیه شروع شده و به کدام سمت ادامه می‌یابد؟",
+      "Back": "از ناحیه گردنی (cervical region) شروع شده و به سمت سری (cephalic) و دمی (caudal) پیشرفت می‌کند."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "بخش‌های باز انتهایی لوله عصبی در جنین چه نام دارند و با کجا ارتباط دارند؟",
+      "Back": "نوروپورهای سری (cranial neuropore) و دمی (caudal neuropore) نامیده می‌شوند که با مایع آمنیوتیک ارتباط دارند."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "عدم بسته شدن نوروپور سری (cranial neuropore) منجر به کدام نقص مادرزادی می‌شود؟",
+      "Back": "آننسفالی (Anencephaly)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "عدم بسته شدن نوروپور دمی (caudal neuropore) منجر به کدام نقص مادرزادی می‌شود؟",
+      "Back": "اسپاینا بیفیدا (Spina bifida) و راشیشیزیس (Rachischisis)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "سه وزیکول اولیه مغزی در هفته چهارم جنینی چه نام دارند؟",
+      "Back": "پروزنسفالون (Prosencephalon/Forebrain)، مزانسفالون (Mesencephalon/Midbrain) و رومبنسفالون (Rhombencephalon/Hindbrain)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "پروزنسفالون (forebrain) به کدام دو وزیکول مغزی ثانویه تقسیم می‌شود؟",
+      "Back": "تلنسفالون (Telencephalon) و دینسفالون (Diencephalon)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "رومبنسفالون (hindbrain) به کدام دو وزیکول مغزی ثانویه تقسیم می‌شود؟",
+      "Back": "متانسفالون (Metencephalon) و میلان‌سفالون (Myelencephalon)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "تلنسفالون (Telencephalon) در نهایت به کدام ساختارهای مغزی تبدیل می‌شود؟",
+      "Back": "نیم‌کره‌های مغزی (cerebral hemispheres)، هسته‌های قاعده‌ای (basal ganglia/corpus striatum)، هیپوکامپ (hippocampus) و بطن‌های جانبی (lateral ventricles)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "دینسفالون (Diencephalon) در نهایت به کدام ساختارهای مغزی تبدیل می‌شود؟",
+      "Back": "تالاموس (Thalamus)، هیپوتالاموس (Hypothalamus)، اپی‌تالاموس (Epithalamus) شامل غده پینه‌آل (pineal gland) و بطن سوم (third ventricle)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "مزانسفالون (Mesencephalon/Midbrain) در نهایت به کدام ساختارهای مغزی تبدیل می‌شود؟",
+      "Back": "مغز میانی (midbrain) و مجرای مغزی (cerebral aqueduct/aqueduct of Sylvius)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "متانسفالون (Metencephalon) در نهایت به کدام ساختارهای مغزی تبدیل می‌شود؟",
+      "Back": "پل مغزی (pons)، مخچه (cerebellum) و بخش فوقانی بطن چهارم (fourth ventricle)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "میلان‌سفالون (Myelencephalon) در نهایت به کدام ساختارهای مغزی تبدیل می‌شود؟",
+      "Back": "بصل‌النخاع (medulla oblongata) و بخش تحتانی بطن چهارم (fourth ventricle)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "دو خمیدگی اصلی که در مراحل اولیه رشد مغز جنینی ایجاد می‌شوند، چه نام دارند؟",
+      "Back": "فلکشن سری (Cephalic flexure) و فلکشن گردنی (Cervical flexure)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "نورواپیتلیوم (Neuroepithelium) در لوله عصبی به کدام سلول‌ها تمایز می‌یابد؟",
+      "Back": "نوروبلاست‌ها (neuroblasts)، گلیوبلاست‌ها (glioblasts) و سلول‌های اپندیمال (ependymal cells)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "نوروبلاست‌ها (neuroblasts) در نهایت به کدام سلول‌ها تمایز می‌یابند؟",
+      "Back": "نورون‌ها (neurons)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "گلیوبلاست‌ها (glioblasts) در نهایت به کدام سلول‌ها تمایز می‌یابند؟",
+      "Back": "آستروسیت‌ها (astrocytes) و الیگودندروسیت‌ها (oligodendrocytes)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "میکروگلیا (Microglia) از کدام لایه جنینی منشا می‌گیرد؟",
+      "Back": "مزانشیم (Mesenchyme)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "سلول‌های ستیغ عصبی (Neural crest cells) چه مشتقات مهمی در سیستم عصبی محیطی و مرکزی دارند؟ (مثال ۳ مورد)",
+      "Back": "گانگلیون‌های ریشه خلفی (Dorsal root ganglia)، گانگلیون‌های اتونوم (autonomic ganglia)، سلول‌های شوان (Schwann cells)، سلول‌های کرومافین مدولای آدرنال (chromaffin cells of adrenal medulla)، مننژ (pia و arachnoid)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "صفحه بالی (Alar plate) در لوله عصبی در حال تکوین، مسئول کدام عملکردهای عصبی است؟",
+      "Back": "عملکردهای حسی/آوران (sensory/afferent)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "صفحه قاعده‌ای (Basal plate) در لوله عصبی در حال تکوین، مسئول کدام عملکردهای عصبی است؟",
+      "Back": "عملکردهای حرکتی/وابران (motor/efferent)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "کدام شیار در دیواره جانبی لوله عصبی، صفحات بالی (alar plate) و قاعده‌ای (basal plate) را از هم جدا می‌کند؟",
+      "Back": "سولکوس لیمیتانس (Sulcus limitans)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "لایه مانتل (Mantle layer) در لوله عصبی در حال تکوین به چه چیزی تبدیل می‌شود؟",
+      "Back": "ماده خاکستری (gray matter) نخاع و هسته‌های مغز."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "لایه مارژینال (Marginal layer) در لوله عصبی در حال تکوین به چه چیزی تبدیل می‌شود؟",
+      "Back": "ماده سفید (white matter) نخاع."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "مسئول میلینه کردن فیبرهای عصبی در سیستم عصبی مرکزی (CNS) کدام سلول‌ها هستند؟",
+      "Back": "الیگودندروسیت‌ها (Oligodendrocytes)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "مسئول میلینه کردن فیبرهای عصبی در سیستم عصبی محیطی (PNS) کدام سلول‌ها هستند؟",
+      "Back": "سلول‌های شوان (Schwann cells)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "در طول رشد جنینی، موقعیت انتهایی نخاع نسبت به ستون مهره‌ها چگونه تغییر می‌کند؟",
+      "Back": "نخاع (spinal cord) به سمت بالا صعود می‌کند، بنابراین در بدو تولد در سطح L2-L3 و در بزرگسالی در سطح L1-L2 پایان می‌یابد."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "بیماری هیرشپرونگ (Hirschsprung's disease) ناشی از نقص در کدام فرایند تکوینی است؟",
+      "Back": "نقص در مهاجرت سلول‌های ستیغ عصبی (neural crest cells) به دیواره روده بزرگ، که منجر به عدم وجود گانگلیون‌های عصبی در بخش‌های انتهایی می‌شود."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "هیدروسفالی (Hydrocephaly) معمولاً به چه دلیل ایجاد می‌شود؟",
+      "Back": "اختلال در جریان یا جذب مایع مغزی نخاعی (CSF) که منجر به بزرگ شدن بطن‌های مغزی می‌شود."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "کرانیوفارنژیوما (Craniopharyngioma) توموری است که از کدام ساختار جنینی منشا می‌گیرد؟",
+      "Back": "بقایای کیسه راتکه (Rathke's pouch)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "کیسه راتکه (Rathke's pouch) در نهایت به کدام بخش غده هیپوفیز (pituitary gland) تبدیل می‌شود؟",
+      "Back": "بخش قدامی هیپوفیز (anterior pituitary/adenohypophysis)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "مدولای فوق کلیه (adrenal medulla) از کدام لایه جنینی یا سلول‌ها منشا می‌گیرد؟",
+      "Back": "سلول‌های ستیغ عصبی (neural crest cells)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "کورتکس فوق کلیه (adrenal cortex) از کدام لایه جنینی منشا می‌گیرد؟",
+      "Back": "مزودرم (mesoderm)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "مخچه (Cerebellum) از کدام بخش وزیکول‌های مغزی ثانویه تکوین می‌یابد؟",
+      "Back": "متانسفالون (Metencephalon)، به ویژه از لب لوزی (rhombic lip)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "سلول‌های پورکینژ (Purkinje cells) در تکوین مخچه از کجا به موقعیت نهایی خود مهاجرت می‌کنند؟",
+      "Back": "از لایه دانه‌ای خارجی (external granular layer) به لایه پورکینژ (Purkinje layer) در قشر مخچه."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "در ساقه مغز (brainstem)، هسته‌های حرکتی (motor nuclei) و حسی (sensory nuclei) به ترتیب در کدام صفحات (plates) قرار می‌گیرند؟",
+      "Back": "هسته‌های حرکتی در صفحه قاعده‌ای (basal plate) و هسته‌های حسی در صفحه بالی (alar plate)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "ساختار کورپوس استریاتوم (Corpus Striatum) از کدام هسته‌های مغزی تشکیل شده است؟",
+      "Back": "هسته دم‌دار (Caudate nucleus) و پوتامن (Putamen)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "هسته‌های قاعده‌ای (Basal Ganglia) اصلی شامل چه مواردی هستند؟",
+      "Back": "هسته دم‌دار (Caudate nucleus)، پوتامن (Putamen)، گلوبوس پالیدوس (Globus pallidus)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "هولوپروسنسفالی (Holoprosencephaly) ناشی از نقص در تقسیم کدام وزیکول مغزی است؟",
+      "Back": "نقص در تقسیم پروزنسفالون (Prosencephalon) به تلنسفالون و دینسفالون."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "از صفحه بالی (Alar plate) در میلان‌سفالون (Myelencephalon) کدام هسته‌های حسی تکوین می‌یابند؟",
+      "Back": "هسته‌های حسی عمومی احشایی (General Visceral Afferent)، هسته‌های حسی اختصاصی احشایی (Special Visceral Afferent) و هسته‌های حسی پیکری (Somatic Afferent)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "از صفحه قاعده‌ای (Basal plate) در میلان‌سفالون (Myelencephalon) کدام هسته‌های حرکتی تکوین می‌یابند؟",
+      "Back": "هسته‌های حرکتی پیکری (Somatic Efferent)، هسته‌های حرکتی اختصاصی احشایی (Special Visceral Efferent) و هسته‌های حرکتی عمومی احشایی (General Visceral Efferent)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "الگوی توزیع ماده خاکستری و سفید در نخاع (spinal cord) چگونه است؟",
+      "Back": "ماده خاکستری (gray matter) در مرکز (core) و ماده سفید (white matter) در خارج آن قرار دارد."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "الگوی توزیع ماده خاکستری و سفید در مخ و مخچه (cerebrum/cerebellum) چگونه است؟",
+      "Back": "ماده خاکستری در قشر (cortex) و همچنین هسته‌های عمقی (deep nuclei) و ماده سفید در داخل آن قرار دارد."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "کمبود کدام ویتامین در دوران بارداری با افزایش خطر نقایص لوله عصبی (NTDs) مرتبط است؟",
+      "Back": "فولات (Folate) یا ویتامین B9."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "انواع اسپاینا بیفیدا (Spina bifida) به ترتیب از خفیف‌ترین تا شدیدترین را نام ببرید.",
+      "Back": "اسپاینا بیفیدا اوکولتا (Spina bifida occulta)، مننگوسل (Meningocele)، مننگومیلوسل (Meningomyelocele)."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "تفاوت اصلی بین مننگوسل (Meningocele) و مننگومیلوسل (Meningomyelocele) چیست؟",
+      "Back": "در مننگوسل فقط مننژها (meninges) بیرون‌زدگی دارند، اما در مننگومیلوسل علاوه بر مننژها، بافت عصبی نخاع (spinal cord tissue) نیز بیرون‌زده است."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "راشیشیزیس (Rachischisis) به چه معناست؟",
+      "Back": "عدم بسته شدن کامل لوله عصبی (neural tube) که باعث نمایان شدن بافت عصبی می‌شود."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "کرانیوراژیشیزیس (Craniorachischisis) به چه نقصی اشاره دارد؟",
+      "Back": "ترکیبی از آننسفالی (Anencephaly) و راشیشیزیس (Rachischisis) که در آن هم مغز و هم نخاع نمایان و ناقص هستند."
+    }
+  },
+  {
+    "deckName": "UniCards::Neuro::11",
+    "modelName": "SelfMadeParsi+",
+    "fields": {
+      "Front": "میکروسفالی (Microcephaly) به چه وضعیتی گفته می‌شود؟",
+      "Back": "اندازه غیرطبیعی کوچک سر و مغز در بدو تولد که معمولاً با اختلال رشد مغزی همراه است."
+    }
+  },
+  {
     "deckName": "UniCards::Bacterio::15",
     "modelName": "SelfMadeParsi",
     "fields": {
